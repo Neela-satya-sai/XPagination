@@ -1,0 +1,19 @@
+body{
+  margin: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+:root{
+  --primary-bg-colour:"white"
+  --secondary-bg-colour: "green"
+  --primary-font:"ubuntu"
+
+   
+}
+#root{
+  width: 100%;
+  height: 100%;
+
+  background-color: var(--primary-bg-colour);
+}
