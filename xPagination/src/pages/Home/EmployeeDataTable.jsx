@@ -1,7 +1,7 @@
 import React, {useState, useEffect } from 'react';
 import styles from './EmployeeDataTable.module.css';
 import axios from "axios";
-import Pagination from '../../Pagination/Pagination.jsx';
+import Pagination from '../../pagination/Pagination.jsx';
 
 const EmployeeDataTable = () => {
 
